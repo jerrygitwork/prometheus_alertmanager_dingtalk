@@ -1,4 +1,3 @@
-from keystoneauth1.loading import conf as keystone_conf
 from oslo_config import cfg
 
 CONF = cfg.CONF
