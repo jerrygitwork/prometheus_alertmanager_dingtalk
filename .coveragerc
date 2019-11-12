@@ -1,0 +1,6 @@
+[run]
+branch = True
+source = prometheus_alertmanager_dingtalk
+
+[report]
+ignore_errors = True
